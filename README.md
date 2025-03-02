@@ -14,24 +14,35 @@ This project analyzes **real estate sales data** using **Power Query** in Excel 
 The Excel dashboard includes **four key analyses** along with key sales metrics at the top.  
 
 ### 📊 Key Metrics (Top Visuals)  
+
+![image alt]()
 At the top of the dashboard, three key visuals display:  
 - **Total Properties Sold** – Overall count of properties sold.  
 - **Total Sales Amount** – Sum of all real estate transactions.  
 - **Number of Houses & Units Sold** – Breakdown of sales into houses and units.  
 
 ### 1️⃣ Property Sales Analysis  
+
+![image alt]()
 - Displays two separate visualizations for **different types of properties sold**.  
 - Helps in comparing sales trends across property types.  
 
 ### 2️⃣ Top 5 Agencies with Highest Sales  
+
+![image alt](https://github.com/bbudha77/Excel-project-2/blob/d9b48a537ab57066c7b3141806e939f4c296f1d8/Screenshot%202025-03-02%20212905.png)
+
 - Identifies **top-performing real estate agencies** based on the number of properties sold.  
 - Useful for understanding market dominance and agency performance.  
 
 ### 3️⃣ Properties Sold on Different Dates  
+
+![image alt]()
 - Tracks **sales distribution over time**.  
 - Helps in identifying seasonal trends and peak sales periods.  
 
 ### 4️⃣ Relationship Between Price & Number of Bedrooms  
+
+![image alt]()
 - Analyzes how **property prices vary with the number of bedrooms**.  
 - Reveals pricing patterns and demand for different property sizes.  
 
