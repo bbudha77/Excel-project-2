@@ -60,6 +60,4 @@ At the top of the dashboard, three key visuals display:
 - Property prices tend to increase with the number of bedrooms.  
 - Sales are concentrated in specific periods, indicating seasonal trends.  
 
----
 
-This version includes everything you requested! Let me know if you need any refinements. 🚀
