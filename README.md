@@ -1,7 +1,7 @@
 # Real Estate Sales Data Analysis 🏡📊  
 
 ## Project Overview  
-This project analyzes **real estate sales data** using **Power Query** in Excel for data transformation and cleaning and pivot table for visualizations. The dataset includes property sales details, agency performance, pricing, and sales trends.  
+This project analyzes **real estate sales data** using **Power Query** in Excel for data transformation and cleaning and **pivot table** for visualizations. The dataset includes property sales details, agency performance, pricing, and sales trends.  
 ![image alt](https://github.com/bbudha77/Excel-project-2/blob/ed1c76db23b4d7eadd3fdf4cde450c313b0514d2/Screenshot%202025-03-02%20213934.png)
 
 ## Data Cleaning & Transformation  
