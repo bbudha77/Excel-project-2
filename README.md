@@ -45,8 +45,9 @@ At the top of the dashboard, three key visuals display:
 ### 3️⃣ Properties Sold on Different Dates  
 
 ![image alt](https://github.com/bbudha77/Excel-project-2/blob/8ca17b136dfbf30b2bd6095fda7830940c6cb064/Screenshot%202025-03-02%20212917.png)
-- Tracks **sales distribution over time**.  
-- Helps in identifying seasonal trends and peak sales periods.  
+- Tracks **sales of property type over time**.  
+- Helps in identifying seasonal trends.
+  
 
 ### 4️⃣ Relationship Between Price & Number of Bedrooms  
 
