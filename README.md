@@ -24,7 +24,7 @@ At the top of the dashboard, three key visuals display:
 - 
  **Slicers for Filtering Data**:
   
-  ![image alt]()
+  ![image alt](https://github.com/bbudha77/Excel-project-2/blob/2dd2cc786d239bddf8f48543fbb18d1f8ad8c39a/Screenshot%202025-03-02%20220039.png)
   
   - **Suburb** – Allows filtering sales data by different suburbs (i.e., Auburn & Burwood).  
   - **Price Range** – Enables filtering properties within a selected price range.
