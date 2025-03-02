@@ -20,7 +20,14 @@ The Excel dashboard includes **four key analyses** along with key sales metrics 
 At the top of the dashboard, three key visuals display:  
 - **Total Properties Sold** – Overall count of properties sold.  
 - **Total Sales Amount** – Sum of all real estate transactions.  
-- **Number of Houses & Units Sold** – Breakdown of sales into houses and units.  
+- **Number of Houses & Units Sold** – Breakdown of sales into houses and units.
+- 
+ **Slicers for Filtering Data**:
+  
+  ![image alt]()
+  
+  - **Suburb** – Allows filtering sales data by different suburbs (i.e., Auburn & Burwood).  
+  - **Price Range** – Enables filtering properties within a selected price range.
 
 ### 1️⃣ Property Sales Analysis  
 
