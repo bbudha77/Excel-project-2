@@ -6,7 +6,7 @@ This project analyzes **real estate sales data** using **Power Query** in Excel 
 
 ## Data Cleaning & Transformation  
 - **Power Query** was used to:
-  - Remove duplicates and handle missing values.  
+  - Remove Duplicate Value and handle missing values.  
   - Standardize data formats (e.g., date formats, price values).  
   - Merge datasets and extract relevant insights.  
 
