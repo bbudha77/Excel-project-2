@@ -15,7 +15,7 @@ The Excel dashboard includes **four key analyses** along with key sales metrics 
 
 ### 📊 Key Metrics (Top Visuals)  
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Excel-project-2/blob/42b18ce0323058d24ebeae1900ce2bd2656f1655/Screenshot%202025-03-02%20213904.png)
 At the top of the dashboard, three key visuals display:  
 - **Total Properties Sold** – Overall count of properties sold.  
 - **Total Sales Amount** – Sum of all real estate transactions.  
