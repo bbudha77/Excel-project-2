@@ -32,7 +32,7 @@ At the top of the dashboard, three key visuals display:
 ### 1️⃣ Property Sales Analysis  
 
 ![image alt](https://github.com/bbudha77/Excel-project-2/blob/230510f0899addf9cfab6b7fb2697e4df1f39d9e/Screenshot%202025-03-02%20212852.png)
-- Displays two separate visualizations for **different types of properties sold** i.e. Houses and Units.  
+- Displays two **different types of properties sold** i.e. Houses and Units.  
 - Helps in comparing sales trends across property types.  
 
 ### 2️⃣ Top 5 Agencies with Highest Sales  
